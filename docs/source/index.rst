@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+HB88 - Nhà Cái Hàng Đầu Việt Nam Đem Đến Trải Nghiệm Cá Cược Tuyệt Vời
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`HB88 <https://hb88.computer/>`_ nổi bật trong ngành cá cược trực tuyến và được coi là một trong những nhà cái hàng đầu tại thị trường Việt Nam. Sự phát triển của HB88 được xây dựng trên nền tảng công nghệ hiện đại, dịch vụ khách hàng tận tâm và các biện pháp bảo mật tối ưu, đảm bảo an toàn cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+HB88 hoạt động dưới giấy phép của Curacao eGaming, chứng tỏ tính minh bạch và công bằng trong hoạt động cá cược. Với mục tiêu trở thành thương hiệu dẫn đầu trong lĩnh vực cá cược trực tuyến tại Việt Nam, HB88 không ngừng cải tiến và mở rộng phạm vi hoạt động, hứa hẹn mang lại cho khách hàng những trải nghiệm tuyệt vời nhất.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 126 Tô Hiệu, Hiệp Tân, Tân Phú, Tp. Hồ Chí Minh. 
 
-Contents
---------
+Phone: 0965 258 369. 
 
-.. toctree::
+Email: hb88@gmail.com. 
 
-   usage
-   api
+Website: https://hb88.computer/ 
+
+#hb88 #trangchuhb88 #dangkyhb88 #dangnhaphb88 #linkhb88
